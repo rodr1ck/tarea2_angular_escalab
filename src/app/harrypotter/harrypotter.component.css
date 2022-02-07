@@ -1,0 +1,11 @@
+.game-title {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .table-style {
+    margin: 0 auto;
+    text-align-last: right;
+    padding:'5px';
+  }
+  
